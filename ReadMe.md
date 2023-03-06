@@ -131,7 +131,7 @@ Unter <https://github.com/ataradov/free-dap> steht die Firmware für den Raspber
 zum Download als UF2 Datei bereit.
 
 Der Raspberry Pi Pico muss mit gedrückter BOOTSEL Taste an den PC
-angeschlossen werden (Nachlesen unter [@rapi:pico]) . Er erscheint als
+angeschlossen werden. Er erscheint als
 Massenspeicher. Die Firmware Datei wird auf den Massenspeicher
 geschoben. Sie wird dort sofort verarbeitet, der Raspberry startet neu
 und meldet sich direkt als CMSIS-DAP Adapter.
@@ -202,6 +202,5 @@ Die Materialliste ist sehr überschaubar
        1 Stück Lochraster Platine, ca. 22,5 x 65 mm
   ------ --------------------------------------------
 
-\
 Für die Verkabelung wird etwas isolierte Litze benötigt.
 
