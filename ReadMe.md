@@ -1,8 +1,8 @@
 # EDGB kompatibler Programmier Adapter für den Arduino Nano 33 IoT
 
-© 2022 bis Prof. Dr. Mathias Moog, Hochschule Ansbach Dieses
-Lernmaterial habe ich zum Gebrauch an der Hochschule Ansbach erstellt.\
+Prof. Dr. Mathias Moog, Hochschule Ansbach, 2022 
 
+Dieses Lernmaterial habe ich zum Gebrauch an der Hochschule Ansbach erstellt.
 
 Es steht unter der Creative-Commons-Lizenz Namensnennung -
 Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0
